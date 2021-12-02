@@ -1,0 +1,24 @@
+.blue-text {
+    color: lightseagreen;
+}
+
+.orange-text {
+    color: orange;
+}
+
+p {
+    color: red;
+    font-size: 22px;
+    text-decoration: underline;
+}
+
+p {
+    color: blue;
+    font-size: 12px;
+}
+/* Cascading will apply the most recent style on the page */
+
+ul li {
+    background-color: plum;
+}
+/* Descendent combinators do not need a comma to combine (ul and li) */

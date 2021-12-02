@@ -1,0 +1,26 @@
+/*
+
+My introduction to CSS
+Coding Foundations Course
+
+
+*/
+
+body {
+    background-color: #D3D3D3;
+}
+
+strong, b {
+    color: green;
+}
+
+/* I am a CSS comment! */
+.wrapper {
+    border: 10px solid red;
+}
+
+.potato {
+    background-color: tomato;
+}
+
+/* ctrl + / will create a quick comment */
