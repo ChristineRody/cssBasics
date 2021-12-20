@@ -14,7 +14,7 @@ strong, b {
     color: green;
 }
 
-/* I am a CSS comment! */
+/* I am a CSS comment! "wrapper" is a class*/
 .wrapper {
     border: 10px solid red;
 }
